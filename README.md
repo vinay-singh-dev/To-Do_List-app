@@ -21,7 +21,7 @@ This is a **To-Do List App** built with **Kotlin** that helps users manage their
 ## 🔧 Setup & Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/vinay-singh-dev/todo-list-app.git
    ```
 2. **Open in Android Studio**
 3. **Sync Gradle & Run the App**
@@ -39,10 +39,6 @@ data class Task(
 )
 ```
 
-## 📸 Screenshots
-![Task List](https://via.placeholder.com/400x800)
-![Task Details](https://via.placeholder.com/400x800)
-
 ## 🔥 Future Enhancements
 - 🔹 Cloud Sync with Firebase 🔥
 - 🔹 Task Reminders & Notifications ⏰
@@ -50,8 +46,5 @@ data class Task(
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open issues and submit pull requests.
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 🚀 **Start managing your tasks effectively with this To-Do List App!**
